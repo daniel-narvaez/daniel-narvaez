@@ -1,4 +1,7 @@
-## Hi there 👋
+## Daniel Narvaez
+I'm a Low Voltage Technician at Technology Sandbox. I have a bachelor's in Design & Technology from Parsons School of Design. I'm looking to break into quantitative engineering.
+
+Outside of my career I make games and design websites for fun.
 
 <!--
 **daniel-narvaez/daniel-narvaez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

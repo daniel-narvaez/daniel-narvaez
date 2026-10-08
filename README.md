@@ -1,5 +1,5 @@
 ## Daniel Narvaez
-I'm a Low Voltage Technician at Technology Sandbox. I have a bachelor's in Design & Technology from Parsons School of Design. I'm looking to break into quantitative engineering.
+I'm a Low Voltage Technician at [Technology Sandbox](https://www.technologysandbox.com/v26/). I have a bachelor's in Design & Technology from Parsons School of Design. I'm looking to break into quantitative engineering.
 
 Outside of my career I make games and design websites for fun.
 
